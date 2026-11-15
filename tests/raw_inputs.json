@@ -1,0 +1,202 @@
+[
+  {
+    "id": "text_01",
+    "text": "Mera basic 8 lakh hai, HRA 2 lakh milta hai aur rent 25k per month hai Pune me. 1.5L PPF. Kaunsa regime lu?"
+  },
+  {
+    "id": "text_02",
+    "text": "I earn 15 LPA total. I pay 30k rent but I don't know my basic pay or HRA breakdown."
+  },
+  {
+    "id": "text_03",
+    "text": "Age 65, total pension 9 lakhs. Paid 60k for health insurance. Old or new?"
+  },
+  {
+    "id": "text_04",
+    "text": "I live in Delhi paying 40k rent. My company gives me 3L HRA and basic is 10L. Wait, actually I shifted to Gurugram last month."
+  },
+  {
+    "id": "text_05",
+    "text": "Gross salary is 55 Lakhs. Are there any surcharges in the new regime for FY26?"
+  },
+  {
+    "id": "text_06",
+    "text": "Age 65, gross 57L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_07",
+    "text": "Basic 11L, HRA 4L, rent 34k in Bangalore. Medical premium 25k. Best regime?"
+  },
+  {
+    "id": "text_08",
+    "text": "Salary is 10L, invested 100k in ELSS. Staying in Mumbai paying 47k rent."
+  },
+  {
+    "id": "text_09",
+    "text": "Earn 50L. No investments at all. Paying rent of 12k but not sure if I get HRA."
+  },
+  {
+    "id": "text_10",
+    "text": "Earn 15L. No investments at all. Paying rent of 28k but not sure if I get HRA."
+  },
+  {
+    "id": "text_11",
+    "text": "Age 65, gross 47L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_12",
+    "text": "Age 65, gross 26L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_13",
+    "text": "Age 40, gross 60L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_14",
+    "text": "Age 25, gross 10L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_15",
+    "text": "Mera total pay 14 lakhs hai. 150k NPS me dala. Age 65 hai."
+  },
+  {
+    "id": "text_16",
+    "text": "Age 65, gross 18L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_17",
+    "text": "Basic 9L, HRA 3L, rent 29k in Noida. Medical premium 50k. Best regime?"
+  },
+  {
+    "id": "text_18",
+    "text": "Age 65, gross 34L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_19",
+    "text": "Earn 36L. No investments at all. Paying rent of 37k but not sure if I get HRA."
+  },
+  {
+    "id": "text_20",
+    "text": "Age 40, gross 15L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_21",
+    "text": "Earn 53L. No investments at all. Paying rent of 34k but not sure if I get HRA."
+  },
+  {
+    "id": "text_22",
+    "text": "Mera total pay 36 lakhs hai. 50k NPS me dala. Age 65 hai."
+  },
+  {
+    "id": "text_23",
+    "text": "Earn 39L. No investments at all. Paying rent of 28k but not sure if I get HRA."
+  },
+  {
+    "id": "text_24",
+    "text": "Mera total pay 43 lakhs hai. 150k NPS me dala. Age 25 hai."
+  },
+  {
+    "id": "text_25",
+    "text": "Salary is 58L, invested 150k in ELSS. Staying in a village paying 31k rent."
+  },
+  {
+    "id": "text_26",
+    "text": "Age 65, gross 15L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_27",
+    "text": "Earn 6L. No investments at all. Paying rent of 34k but not sure if I get HRA."
+  },
+  {
+    "id": "text_28",
+    "text": "Earn 7L. No investments at all. Paying rent of 46k but not sure if I get HRA."
+  },
+  {
+    "id": "text_29",
+    "text": "Age 25, gross 59L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_30",
+    "text": "Salary is 35L, invested 50k in ELSS. Staying in Bangalore paying 40k rent."
+  },
+  {
+    "id": "text_31",
+    "text": "Mera total pay 53 lakhs hai. 100k NPS me dala. Age 25 hai."
+  },
+  {
+    "id": "text_32",
+    "text": "Earn 6L. No investments at all. Paying rent of 34k but not sure if I get HRA."
+  },
+  {
+    "id": "text_33",
+    "text": "Age 25, gross 54L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_34",
+    "text": "Basic 10L, HRA 1L, rent 48k in Noida. Medical premium 50k. Best regime?"
+  },
+  {
+    "id": "text_35",
+    "text": "Basic 9L, HRA 5L, rent 47k in Bangalore. Medical premium 25k. Best regime?"
+  },
+  {
+    "id": "text_36",
+    "text": "Earn 54L. No investments at all. Paying rent of 32k but not sure if I get HRA."
+  },
+  {
+    "id": "text_37",
+    "text": "Earn 43L. No investments at all. Paying rent of 50k but not sure if I get HRA."
+  },
+  {
+    "id": "text_38",
+    "text": "Salary is 49L, invested 100k in ELSS. Staying in Mumbai paying 43k rent."
+  },
+  {
+    "id": "text_39",
+    "text": "Basic 8L, HRA 5L, rent 13k in Noida. Medical premium 25k. Best regime?"
+  },
+  {
+    "id": "text_40",
+    "text": "Salary is 6L, invested 150k in ELSS. Staying in Noida paying 40k rent."
+  },
+  {
+    "id": "text_41",
+    "text": "Basic 11L, HRA 2L, rent 44k in a village. Medical premium 10k. Best regime?"
+  },
+  {
+    "id": "text_42",
+    "text": "Basic 5L, HRA 2L, rent 16k in Noida. Medical premium 50k. Best regime?"
+  },
+  {
+    "id": "text_43",
+    "text": "Basic 15L, HRA 2L, rent 26k in Noida. Medical premium 10k. Best regime?"
+  },
+  {
+    "id": "text_44",
+    "text": "Mera total pay 31 lakhs hai. 50k NPS me dala. Age 65 hai."
+  },
+  {
+    "id": "text_45",
+    "text": "Earn 27L. No investments at all. Paying rent of 14k but not sure if I get HRA."
+  },
+  {
+    "id": "text_46",
+    "text": "Basic 13L, HRA 4L, rent 17k in Noida. Medical premium 50k. Best regime?"
+  },
+  {
+    "id": "text_47",
+    "text": "Salary is 60L, invested 150k in ELSS. Staying in Mumbai paying 39k rent."
+  },
+  {
+    "id": "text_48",
+    "text": "Age 25, gross 19L. Home loan interest is 2.5L but I know max is 2L. What's my tax?"
+  },
+  {
+    "id": "text_49",
+    "text": "Basic 11L, HRA 5L, rent 30k in Mumbai. Medical premium 10k. Best regime?"
+  },
+  {
+    "id": "text_50",
+    "text": "Earn 14L. No investments at all. Paying rent of 49k but not sure if I get HRA."
+  }
+]

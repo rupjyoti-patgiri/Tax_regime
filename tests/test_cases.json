@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "exactly_7L_fy24",
+    "age": 30,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 625000,
+      "hra_received": 150000,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 0
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "marginal_relief_87A_fy24",
+    "age": 30,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 630000,
+      "hra_received": 150000,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 0
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "exactly_12L_fy25",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1050000,
+      "hra_received": 225000,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 0
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "hra_metro_full_exemption",
+    "age": 28,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 500000,
+      "hra_received": 250000,
+      "rent_paid": 300000,
+      "city_type": "Mumbai",
+      "other_allowances": 0
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "hra_non_metro_partial",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 800000,
+      "hra_received": 300000,
+      "rent_paid": 150000,
+      "city_type": "Pune",
+      "other_allowances": 0
+    },
+    "investments": {
+      "sec_80c": 100000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "senior_citizen_max_deductions",
+    "age": 65,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 1200000,
+      "hra_received": 0,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 0
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "surcharge_50L_exact",
+    "age": 40,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 4000000,
+      "hra_received": 1075000,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 0
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "surcharge_marginal_relief",
+    "age": 42,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 4050000,
+      "hra_received": 1075000,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 0
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "surcharge_new_regime_cap",
+    "age": 50,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 20000000,
+      "hra_received": 5075000,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 0
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_10",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 399179,
+      "hra_received": 159671,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 239507
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_11",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 278139,
+      "hra_received": 111255,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 166883
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_12",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 177353,
+      "hra_received": 70941,
+      "rent_paid": 65635,
+      "city_type": "Non-Metro",
+      "other_allowances": 106411
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_13",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 664728,
+      "hra_received": 265891,
+      "rent_paid": 179955,
+      "city_type": "Non-Metro",
+      "other_allowances": 398836
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_14",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2743571,
+      "hra_received": 1097428,
+      "rent_paid": 913281,
+      "city_type": "Metro",
+      "other_allowances": 1646142
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_15",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 283001,
+      "hra_received": 113200,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 169800
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_16",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 311143,
+      "hra_received": 124457,
+      "rent_paid": 10243,
+      "city_type": "Non-Metro",
+      "other_allowances": 186685
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_17",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 767184,
+      "hra_received": 306873,
+      "rent_paid": 401240,
+      "city_type": "Non-Metro",
+      "other_allowances": 460310
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_18",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 1238295,
+      "hra_received": 495318,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 742977
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_19",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 183186,
+      "hra_received": 73274,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 109911
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_20",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2741220,
+      "hra_received": 1096488,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 1644732
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_21",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 643319,
+      "hra_received": 257327,
+      "rent_paid": 346868,
+      "city_type": "Non-Metro",
+      "other_allowances": 385991
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_22",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 632569,
+      "hra_received": 253027,
+      "rent_paid": 271905,
+      "city_type": "Metro",
+      "other_allowances": 379541
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_23",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 302497,
+      "hra_received": 120999,
+      "rent_paid": 167237,
+      "city_type": "Metro",
+      "other_allowances": 181498
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_24",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 5981761,
+      "hra_received": 2392704,
+      "rent_paid": 3743644,
+      "city_type": "Non-Metro",
+      "other_allowances": 3589056
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_25",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 1232198,
+      "hra_received": 492879,
+      "rent_paid": 846840,
+      "city_type": "Non-Metro",
+      "other_allowances": 739318
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_26",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 774067,
+      "hra_received": 309626,
+      "rent_paid": 7776,
+      "city_type": "Non-Metro",
+      "other_allowances": 464440
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_27",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 1229439,
+      "hra_received": 491775,
+      "rent_paid": 598795,
+      "city_type": "Metro",
+      "other_allowances": 737663
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_28",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1238910,
+      "hra_received": 495564,
+      "rent_paid": 258038,
+      "city_type": "Metro",
+      "other_allowances": 743346
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_29",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2768640,
+      "hra_received": 1107456,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 1661184
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_30",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1234502,
+      "hra_received": 493800,
+      "rent_paid": 563241,
+      "city_type": "Non-Metro",
+      "other_allowances": 740701
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_31",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 444394,
+      "hra_received": 177757,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 266636
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_32",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 5980870,
+      "hra_received": 2392348,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 3588522
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_33",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 673948,
+      "hra_received": 269579,
+      "rent_paid": 97672,
+      "city_type": "Non-Metro",
+      "other_allowances": 404369
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_34",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 433654,
+      "hra_received": 173461,
+      "rent_paid": 52912,
+      "city_type": "Non-Metro",
+      "other_allowances": 260192
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_35",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 2762188,
+      "hra_received": 1104875,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 1657313
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_36",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 446982,
+      "hra_received": 178793,
+      "rent_paid": 104862,
+      "city_type": "Non-Metro",
+      "other_allowances": 268189
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_37",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 733161,
+      "hra_received": 293264,
+      "rent_paid": 413607,
+      "city_type": "Non-Metro",
+      "other_allowances": 439896
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_38",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 462640,
+      "hra_received": 185056,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 277584
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_39",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 217173,
+      "hra_received": 86869,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 130303
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_40",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1253025,
+      "hra_received": 501210,
+      "rent_paid": 735729,
+      "city_type": "Non-Metro",
+      "other_allowances": 751815
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_41",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2756111,
+      "hra_received": 1102444,
+      "rent_paid": 1423276,
+      "city_type": "Non-Metro",
+      "other_allowances": 1653666
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_42",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1233001,
+      "hra_received": 493200,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 739800
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_43",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 377854,
+      "hra_received": 151141,
+      "rent_paid": 190248,
+      "city_type": "Non-Metro",
+      "other_allowances": 226712
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_44",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 527081,
+      "hra_received": 210832,
+      "rent_paid": 25426,
+      "city_type": "Non-Metro",
+      "other_allowances": 316248
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_45",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 531424,
+      "hra_received": 212569,
+      "rent_paid": 368459,
+      "city_type": "Non-Metro",
+      "other_allowances": 318854
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_46",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 647106,
+      "hra_received": 258842,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 388263
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_47",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 742552,
+      "hra_received": 297020,
+      "rent_paid": 175419,
+      "city_type": "Non-Metro",
+      "other_allowances": 445531
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_48",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 760273,
+      "hra_received": 304109,
+      "rent_paid": 511005,
+      "city_type": "Non-Metro",
+      "other_allowances": 456163
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_49",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 5975551,
+      "hra_received": 2390220,
+      "rent_paid": 3851318,
+      "city_type": "Non-Metro",
+      "other_allowances": 3585330
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_50",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 1267195,
+      "hra_received": 506878,
+      "rent_paid": 936742,
+      "city_type": "Metro",
+      "other_allowances": 760317
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_51",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 5987037,
+      "hra_received": 2394815,
+      "rent_paid": 573032,
+      "city_type": "Non-Metro",
+      "other_allowances": 3592222
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_52",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 5996467,
+      "hra_received": 2398586,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 3597880
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_53",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1233212,
+      "hra_received": 493285,
+      "rent_paid": 687885,
+      "city_type": "Non-Metro",
+      "other_allowances": 739927
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_54",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2766774,
+      "hra_received": 1106709,
+      "rent_paid": 251872,
+      "city_type": "Non-Metro",
+      "other_allowances": 1660064
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_55",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 362967,
+      "hra_received": 145186,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 217780
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_56",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2758788,
+      "hra_received": 1103515,
+      "rent_paid": 1857552,
+      "city_type": "Non-Metro",
+      "other_allowances": 1655272
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_57",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 452282,
+      "hra_received": 180913,
+      "rent_paid": 193573,
+      "city_type": "Non-Metro",
+      "other_allowances": 271369
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_58",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 182152,
+      "hra_received": 72860,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 109291
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_59",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 5994178,
+      "hra_received": 2397671,
+      "rent_paid": 1671187,
+      "city_type": "Metro",
+      "other_allowances": 3596507
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_60",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 545493,
+      "hra_received": 218197,
+      "rent_paid": 353918,
+      "city_type": "Non-Metro",
+      "other_allowances": 327295
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_61",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 2763619,
+      "hra_received": 1105447,
+      "rent_paid": 2200606,
+      "city_type": "Non-Metro",
+      "other_allowances": 1658171
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_62",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 5983330,
+      "hra_received": 2393332,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 3589998
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_63",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 5995480,
+      "hra_received": 2398192,
+      "rent_paid": 2217314,
+      "city_type": "Metro",
+      "other_allowances": 3597288
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_64",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2754685,
+      "hra_received": 1101874,
+      "rent_paid": 473575,
+      "city_type": "Metro",
+      "other_allowances": 1652811
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_65",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 5997002,
+      "hra_received": 2398800,
+      "rent_paid": 1675540,
+      "city_type": "Metro",
+      "other_allowances": 3598201
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_66",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 2752989,
+      "hra_received": 1101195,
+      "rent_paid": 1163373,
+      "city_type": "Metro",
+      "other_allowances": 1651793
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_67",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 464406,
+      "hra_received": 185762,
+      "rent_paid": 185520,
+      "city_type": "Metro",
+      "other_allowances": 278643
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_68",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 669177,
+      "hra_received": 267670,
+      "rent_paid": 422535,
+      "city_type": "Non-Metro",
+      "other_allowances": 401506
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_69",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2769305,
+      "hra_received": 1107722,
+      "rent_paid": 2089575,
+      "city_type": "Non-Metro",
+      "other_allowances": 1661583
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_70",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 667364,
+      "hra_received": 266945,
+      "rent_paid": 413550,
+      "city_type": "Metro",
+      "other_allowances": 400418
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_71",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 185275,
+      "hra_received": 74110,
+      "rent_paid": 278,
+      "city_type": "Non-Metro",
+      "other_allowances": 111165
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_72",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 627410,
+      "hra_received": 250964,
+      "rent_paid": 125462,
+      "city_type": "Non-Metro",
+      "other_allowances": 376446
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_73",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 733622,
+      "hra_received": 293448,
+      "rent_paid": 143747,
+      "city_type": "Non-Metro",
+      "other_allowances": 440173
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_74",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 469234,
+      "hra_received": 187693,
+      "rent_paid": 152725,
+      "city_type": "Metro",
+      "other_allowances": 281540
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_75",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 739676,
+      "hra_received": 295870,
+      "rent_paid": 327916,
+      "city_type": "Non-Metro",
+      "other_allowances": 443805
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_76",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2768105,
+      "hra_received": 1107242,
+      "rent_paid": 1616458,
+      "city_type": "Metro",
+      "other_allowances": 1660863
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_77",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 436885,
+      "hra_received": 174754,
+      "rent_paid": 33842,
+      "city_type": "Non-Metro",
+      "other_allowances": 262131
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_78",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 429016,
+      "hra_received": 171606,
+      "rent_paid": 236491,
+      "city_type": "Non-Metro",
+      "other_allowances": 257409
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_79",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 769743,
+      "hra_received": 307897,
+      "rent_paid": 69681,
+      "city_type": "Non-Metro",
+      "other_allowances": 461845
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_80",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 2742065,
+      "hra_received": 1096826,
+      "rent_paid": 952892,
+      "city_type": "Metro",
+      "other_allowances": 1645239
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_81",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 756669,
+      "hra_received": 302667,
+      "rent_paid": 392010,
+      "city_type": "Non-Metro",
+      "other_allowances": 454001
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_82",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 552376,
+      "hra_received": 220950,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 331425
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_83",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 466007,
+      "hra_received": 186402,
+      "rent_paid": 206521,
+      "city_type": "Metro",
+      "other_allowances": 279604
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_84",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 188083,
+      "hra_received": 75233,
+      "rent_paid": 117514,
+      "city_type": "Non-Metro",
+      "other_allowances": 112850
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_85",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 658595,
+      "hra_received": 263438,
+      "rent_paid": 5105,
+      "city_type": "Metro",
+      "other_allowances": 395157
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_86",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 634510,
+      "hra_received": 253804,
+      "rent_paid": 338572,
+      "city_type": "Non-Metro",
+      "other_allowances": 380706
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_87",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1259131,
+      "hra_received": 503652,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 755478
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_88",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 357815,
+      "hra_received": 143126,
+      "rent_paid": 172907,
+      "city_type": "Non-Metro",
+      "other_allowances": 214689
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_89",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 194473,
+      "hra_received": 77789,
+      "rent_paid": 21141,
+      "city_type": "Non-Metro",
+      "other_allowances": 116684
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_90",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 648056,
+      "hra_received": 259222,
+      "rent_paid": 20633,
+      "city_type": "Non-Metro",
+      "other_allowances": 388833
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_91",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 669925,
+      "hra_received": 267970,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 401955
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_92",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 638304,
+      "hra_received": 255321,
+      "rent_paid": 319473,
+      "city_type": "Non-Metro",
+      "other_allowances": 382982
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_93",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 773721,
+      "hra_received": 309488,
+      "rent_paid": 275723,
+      "city_type": "Non-Metro",
+      "other_allowances": 464232
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_94",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2728423,
+      "hra_received": 1091369,
+      "rent_paid": 967470,
+      "city_type": "Non-Metro",
+      "other_allowances": 1637054
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_95",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2761691,
+      "hra_received": 1104676,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 1657014
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_96",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 356681,
+      "hra_received": 142672,
+      "rent_paid": 35972,
+      "city_type": "Metro",
+      "other_allowances": 214008
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_97",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 473065,
+      "hra_received": 189226,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 283839
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_98",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 5991678,
+      "hra_received": 2396671,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 3595007
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_99",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 757466,
+      "hra_received": 302986,
+      "rent_paid": 314461,
+      "city_type": "Metro",
+      "other_allowances": 454479
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_100",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 764810,
+      "hra_received": 305924,
+      "rent_paid": 474669,
+      "city_type": "Metro",
+      "other_allowances": 458886
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_101",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 668658,
+      "hra_received": 267463,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 401195
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_102",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 212546,
+      "hra_received": 85018,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 127527
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_103",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 184617,
+      "hra_received": 73846,
+      "rent_paid": 70038,
+      "city_type": "Metro",
+      "other_allowances": 110770
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_104",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 2758350,
+      "hra_received": 1103340,
+      "rent_paid": 714247,
+      "city_type": "Non-Metro",
+      "other_allowances": 1655010
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_105",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 5991089,
+      "hra_received": 2396435,
+      "rent_paid": 800984,
+      "city_type": "Metro",
+      "other_allowances": 3594653
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_106",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 368480,
+      "hra_received": 147392,
+      "rent_paid": 279250,
+      "city_type": "Non-Metro",
+      "other_allowances": 221088
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_107",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 756738,
+      "hra_received": 302695,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 454042
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_108",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 643110,
+      "hra_received": 257244,
+      "rent_paid": 421822,
+      "city_type": "Non-Metro",
+      "other_allowances": 385866
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_109",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 6022404,
+      "hra_received": 2408961,
+      "rent_paid": 2131862,
+      "city_type": "Metro",
+      "other_allowances": 3613442
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_110",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 388364,
+      "hra_received": 155345,
+      "rent_paid": 42643,
+      "city_type": "Metro",
+      "other_allowances": 233018
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_111",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 281935,
+      "hra_received": 112774,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 169161
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_112",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 361963,
+      "hra_received": 144785,
+      "rent_paid": 64877,
+      "city_type": "Metro",
+      "other_allowances": 217177
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_113",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1252966,
+      "hra_received": 501186,
+      "rent_paid": 321179,
+      "city_type": "Metro",
+      "other_allowances": 751779
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_114",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 196520,
+      "hra_received": 78608,
+      "rent_paid": 157181,
+      "city_type": "Non-Metro",
+      "other_allowances": 117912
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_115",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 450722,
+      "hra_received": 180289,
+      "rent_paid": 71377,
+      "city_type": "Metro",
+      "other_allowances": 270433
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_116",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 5977675,
+      "hra_received": 2391070,
+      "rent_paid": 2827495,
+      "city_type": "Non-Metro",
+      "other_allowances": 3586605
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_117",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2764614,
+      "hra_received": 1105845,
+      "rent_paid": 525785,
+      "city_type": "Metro",
+      "other_allowances": 1658768
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_118",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 450187,
+      "hra_received": 180074,
+      "rent_paid": 82954,
+      "city_type": "Metro",
+      "other_allowances": 270112
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_119",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 733931,
+      "hra_received": 293572,
+      "rent_paid": 107543,
+      "city_type": "Non-Metro",
+      "other_allowances": 440358
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_120",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 319842,
+      "hra_received": 127937,
+      "rent_paid": 44924,
+      "city_type": "Metro",
+      "other_allowances": 191905
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_121",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 380699,
+      "hra_received": 152279,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 228419
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_122",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1253382,
+      "hra_received": 501352,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 752029
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_123",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 383852,
+      "hra_received": 153540,
+      "rent_paid": 108852,
+      "city_type": "Non-Metro",
+      "other_allowances": 230311
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_124",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 761888,
+      "hra_received": 304755,
+      "rent_paid": 491370,
+      "city_type": "Non-Metro",
+      "other_allowances": 457133
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_125",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 767361,
+      "hra_received": 306944,
+      "rent_paid": 7398,
+      "city_type": "Non-Metro",
+      "other_allowances": 460416
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_126",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 361891,
+      "hra_received": 144756,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 217134
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_127",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 294571,
+      "hra_received": 117828,
+      "rent_paid": 131704,
+      "city_type": "Non-Metro",
+      "other_allowances": 176742
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_128",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 760779,
+      "hra_received": 304311,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 456467
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_129",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 430006,
+      "hra_received": 172002,
+      "rent_paid": 332695,
+      "city_type": "Non-Metro",
+      "other_allowances": 258003
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_130",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 527000,
+      "hra_received": 210800,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 316200
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_131",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 663591,
+      "hra_received": 265436,
+      "rent_paid": 239958,
+      "city_type": "Non-Metro",
+      "other_allowances": 398154
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_132",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 527601,
+      "hra_received": 211040,
+      "rent_paid": 376486,
+      "city_type": "Metro",
+      "other_allowances": 316560
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_133",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 439961,
+      "hra_received": 175984,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 263976
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_134",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 223313,
+      "hra_received": 89325,
+      "rent_paid": 22269,
+      "city_type": "Non-Metro",
+      "other_allowances": 133987
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_135",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2729522,
+      "hra_received": 1091808,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 1637713
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_136",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 770884,
+      "hra_received": 308353,
+      "rent_paid": 121560,
+      "city_type": "Metro",
+      "other_allowances": 462530
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_137",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 536747,
+      "hra_received": 214698,
+      "rent_paid": 400475,
+      "city_type": "Non-Metro",
+      "other_allowances": 322048
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_138",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2738623,
+      "hra_received": 1095449,
+      "rent_paid": 2150668,
+      "city_type": "Non-Metro",
+      "other_allowances": 1643173
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_139",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 546076,
+      "hra_received": 218430,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 327645
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_140",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 773855,
+      "hra_received": 309542,
+      "rent_paid": 336987,
+      "city_type": "Metro",
+      "other_allowances": 464313
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_141",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 382811,
+      "hra_received": 153124,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 229686
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_142",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1261311,
+      "hra_received": 504524,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 756786
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_143",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 205534,
+      "hra_received": 82213,
+      "rent_paid": 109655,
+      "city_type": "Non-Metro",
+      "other_allowances": 123320
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_144",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 658040,
+      "hra_received": 263216,
+      "rent_paid": 97749,
+      "city_type": "Non-Metro",
+      "other_allowances": 394824
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_145",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2728249,
+      "hra_received": 1091299,
+      "rent_paid": 251326,
+      "city_type": "Metro",
+      "other_allowances": 1636949
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_146",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 176742,
+      "hra_received": 70697,
+      "rent_paid": 42056,
+      "city_type": "Non-Metro",
+      "other_allowances": 106045
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_147",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 6016368,
+      "hra_received": 2406547,
+      "rent_paid": 4431017,
+      "city_type": "Non-Metro",
+      "other_allowances": 3609821
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_148",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 549017,
+      "hra_received": 219607,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 329410
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_149",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1229014,
+      "hra_received": 491605,
+      "rent_paid": 552032,
+      "city_type": "Non-Metro",
+      "other_allowances": 737408
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_150",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 352178,
+      "hra_received": 140871,
+      "rent_paid": 240240,
+      "city_type": "Metro",
+      "other_allowances": 211306
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_151",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 387287,
+      "hra_received": 154914,
+      "rent_paid": 45762,
+      "city_type": "Metro",
+      "other_allowances": 232372
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_152",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1248408,
+      "hra_received": 499363,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 749045
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_153",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 210632,
+      "hra_received": 84252,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 126379
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_154",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 1249593,
+      "hra_received": 499837,
+      "rent_paid": 613735,
+      "city_type": "Non-Metro",
+      "other_allowances": 749755
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_155",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 377822,
+      "hra_received": 151128,
+      "rent_paid": 149909,
+      "city_type": "Metro",
+      "other_allowances": 226693
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_156",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 179299,
+      "hra_received": 71719,
+      "rent_paid": 91875,
+      "city_type": "Metro",
+      "other_allowances": 107579
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_157",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 383051,
+      "hra_received": 153220,
+      "rent_paid": 288043,
+      "city_type": "Metro",
+      "other_allowances": 229830
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_158",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2750096,
+      "hra_received": 1100038,
+      "rent_paid": 1808145,
+      "city_type": "Non-Metro",
+      "other_allowances": 1650057
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_159",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 6003156,
+      "hra_received": 2401262,
+      "rent_paid": 3540360,
+      "city_type": "Non-Metro",
+      "other_allowances": 3601893
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_160",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 314085,
+      "hra_received": 125634,
+      "rent_paid": 243642,
+      "city_type": "Non-Metro",
+      "other_allowances": 188451
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_161",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 287800,
+      "hra_received": 115120,
+      "rent_paid": 55467,
+      "city_type": "Non-Metro",
+      "other_allowances": 172680
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_162",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 202542,
+      "hra_received": 81016,
+      "rent_paid": 26716,
+      "city_type": "Metro",
+      "other_allowances": 121525
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_163",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 214778,
+      "hra_received": 85911,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 128867
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_164",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 630210,
+      "hra_received": 252084,
+      "rent_paid": 51837,
+      "city_type": "Metro",
+      "other_allowances": 378126
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_165",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 774709,
+      "hra_received": 309883,
+      "rent_paid": 461221,
+      "city_type": "Non-Metro",
+      "other_allowances": 464825
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_166",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1258253,
+      "hra_received": 503301,
+      "rent_paid": 85190,
+      "city_type": "Non-Metro",
+      "other_allowances": 754951
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_167",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 182828,
+      "hra_received": 73131,
+      "rent_paid": 46904,
+      "city_type": "Metro",
+      "other_allowances": 109697
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_168",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 463561,
+      "hra_received": 185424,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 278136
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_169",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 444680,
+      "hra_received": 177872,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 266808
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_170",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 180103,
+      "hra_received": 72041,
+      "rent_paid": 51539,
+      "city_type": "Metro",
+      "other_allowances": 108062
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_171",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 313969,
+      "hra_received": 125587,
+      "rent_paid": 79459,
+      "city_type": "Non-Metro",
+      "other_allowances": 188381
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_172",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 206599,
+      "hra_received": 82639,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 123959
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_173",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 287752,
+      "hra_received": 115100,
+      "rent_paid": 160353,
+      "city_type": "Metro",
+      "other_allowances": 172651
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_174",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 312745,
+      "hra_received": 125098,
+      "rent_paid": 37008,
+      "city_type": "Metro",
+      "other_allowances": 187647
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_175",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2741498,
+      "hra_received": 1096599,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 1644899
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_176",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 360749,
+      "hra_received": 144299,
+      "rent_paid": 279942,
+      "city_type": "Non-Metro",
+      "other_allowances": 216449
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_177",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2741323,
+      "hra_received": 1096529,
+      "rent_paid": 2082736,
+      "city_type": "Metro",
+      "other_allowances": 1644793
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_178",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 207870,
+      "hra_received": 83148,
+      "rent_paid": 139417,
+      "city_type": "Non-Metro",
+      "other_allowances": 124722
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_179",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 363836,
+      "hra_received": 145534,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 218301
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_180",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1264334,
+      "hra_received": 505733,
+      "rent_paid": 904852,
+      "city_type": "Metro",
+      "other_allowances": 758600
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_181",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 625359,
+      "hra_received": 250143,
+      "rent_paid": 462536,
+      "city_type": "Non-Metro",
+      "other_allowances": 375215
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_182",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 2731467,
+      "hra_received": 1092586,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 1638880
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_183",
+    "age": 55,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 628328,
+      "hra_received": 251331,
+      "rent_paid": 0,
+      "city_type": "Metro",
+      "other_allowances": 376996
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_184",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 1250115,
+      "hra_received": 500046,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 750069
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_185",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 301628,
+      "hra_received": 120651,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 180976
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_186",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 394419,
+      "hra_received": 157767,
+      "rent_paid": 204407,
+      "city_type": "Non-Metro",
+      "other_allowances": 236651
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_187",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 186692,
+      "hra_received": 74676,
+      "rent_paid": 146347,
+      "city_type": "Metro",
+      "other_allowances": 112015
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_188",
+    "age": 25,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 362945,
+      "hra_received": 145178,
+      "rent_paid": 125063,
+      "city_type": "Metro",
+      "other_allowances": 217767
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_189",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 665966,
+      "hra_received": 266386,
+      "rent_paid": 17191,
+      "city_type": "Non-Metro",
+      "other_allowances": 399579
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 50000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_190",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 749827,
+      "hra_received": 299930,
+      "rent_paid": 191334,
+      "city_type": "Non-Metro",
+      "other_allowances": 449896
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_191",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 628251,
+      "hra_received": 251300,
+      "rent_paid": 364068,
+      "city_type": "Metro",
+      "other_allowances": 376950
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_192",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 661608,
+      "hra_received": 264643,
+      "rent_paid": 506120,
+      "city_type": "Non-Metro",
+      "other_allowances": 396965
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_193",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 382343,
+      "hra_received": 152937,
+      "rent_paid": 173036,
+      "city_type": "Non-Metro",
+      "other_allowances": 229406
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_194",
+    "age": 45,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 746844,
+      "hra_received": 298737,
+      "rent_paid": 280812,
+      "city_type": "Non-Metro",
+      "other_allowances": 448106
+    },
+    "investments": {
+      "sec_80c": 0,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_195",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 530681,
+      "hra_received": 212272,
+      "rent_paid": 345525,
+      "city_type": "Metro",
+      "other_allowances": 318408
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_196",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 533426,
+      "hra_received": 213370,
+      "rent_paid": 305862,
+      "city_type": "Metro",
+      "other_allowances": 320055
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_197",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 215929,
+      "hra_received": 86371,
+      "rent_paid": 57012,
+      "city_type": "Metro",
+      "other_allowances": 129557
+    },
+    "investments": {
+      "sec_80c": 50000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 25000,
+      "sec_24b": 200000
+    }
+  },
+  {
+    "id": "auto_generated_198",
+    "age": 35,
+    "is_senior_citizen": false,
+    "financials": {
+      "basic_pay": 528551,
+      "hra_received": 211420,
+      "rent_paid": 403652,
+      "city_type": "Non-Metro",
+      "other_allowances": 317130
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 150000
+    }
+  },
+  {
+    "id": "auto_generated_199",
+    "age": 62,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 6014341,
+      "hra_received": 2405736,
+      "rent_paid": 0,
+      "city_type": "Non-Metro",
+      "other_allowances": 3608604
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 0,
+      "sec_80d": 25000,
+      "sec_24b": 0
+    }
+  },
+  {
+    "id": "auto_generated_200",
+    "age": 70,
+    "is_senior_citizen": true,
+    "financials": {
+      "basic_pay": 5982129,
+      "hra_received": 2392851,
+      "rent_paid": 3414598,
+      "city_type": "Non-Metro",
+      "other_allowances": 3589277
+    },
+    "investments": {
+      "sec_80c": 150000,
+      "sec_80ccd1b": 50000,
+      "sec_80d": 0,
+      "sec_24b": 150000
+    }
+  }
+]
